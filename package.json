@@ -1,7 +1,7 @@
 {
   "name": "covid",
   "version": "0.0.1",
-  "author": "Habib AlMawali",
+  "author": "Mohamed Faroug",
   "homepage": "https://habib.al-mawali.com/",
   "scripts": {
     "ng": "ng",
