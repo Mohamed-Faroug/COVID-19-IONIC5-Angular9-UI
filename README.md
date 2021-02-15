@@ -9,7 +9,7 @@
 </p>
 
 ## Screenshots
-![untitled-project@2x (1)](https://ibb.co/9s7VxDP)
+<a href="https://ibb.co/9s7VxDP"><img src="https://i.ibb.co/bzk240t/image.png" alt="image for the App" border="0"></a>
 
 
 
