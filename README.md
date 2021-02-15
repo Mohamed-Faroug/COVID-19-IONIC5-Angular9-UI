@@ -34,8 +34,10 @@ ionic serve
 5. That's it, enjoy.
 
 ## Credits:
-https://www.freevector.com/
-https://getwaves.io/
+- https://www.freevector.com/
+- https://www.canva.com/
+- https://www.figma.com/
+- https://getwaves.io/
 
 ###### Thank you.
 
