@@ -1,4 +1,4 @@
-package com.getcapacitor.myapp;
+package io.Faroug.Mohamed;
 
 import org.junit.Test;
 

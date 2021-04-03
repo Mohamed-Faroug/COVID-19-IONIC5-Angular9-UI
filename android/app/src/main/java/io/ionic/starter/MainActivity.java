@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package io.Faroug.Mohamed;
 
 import android.os.Bundle;
 
